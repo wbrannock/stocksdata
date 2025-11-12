@@ -13,3 +13,10 @@ TODO: add your name
 **comparison_work.ipynb**: Code for exploring and visualizing the comparisons between the ECDF based and Markov Chain
 
 **Markov_Chain_Work.ipynb**: Code for generating and visualizing Markov Chain results
+
+
+## Presentation and Report
+
+**Report Google Doc**: https://docs.google.com/document/d/1kQLt7hDLy4j-t12Bx6z63Sn51gajyJANWCrOw6t951g/edit?tab=t.0
+
+**Slide Show Presentation**: https://docs.google.com/presentation/d/10oVu7KHk-olCCvLjHPV7RdqQtANawQEMSmjBl6XlgiY/edit?slide=id.g3a261b3249e_0_20#slide=id.g3a261b3249e_0_20
