@@ -8,8 +8,8 @@
 
 **data_creation.ipynb**: Contains code that creates the stocks_aggregated.csv that contains the formatted data used for modeling
 
-**stocks_eda.ipynb**: Initial EDA of original data file
+**stocks_missing_analysis.ipynb**: Code for exploring data and analyzing missing values
 
-**stocks_missing_analysis**: Code for exploring data and analyzing missing values
+**comparison_work.ipynb**: Code for exploring and visualizing the comparisons between the ECDF based and Markov Chain
 
-**comparison_work**
+**Markov_Chain_Work.ipynb**: Code for generating and visualizing Markov Chain results
