@@ -20,3 +20,8 @@ Joseph Hudson, Joseph Kaminetz, Will Novak, Will Brannock, Aiden Rocha, Garret K
 **Report Google Doc**: https://docs.google.com/document/d/1kQLt7hDLy4j-t12Bx6z63Sn51gajyJANWCrOw6t951g/edit?tab=t.0
 
 **Slide Show Presentation**: https://docs.google.com/presentation/d/10oVu7KHk-olCCvLjHPV7RdqQtANawQEMSmjBl6XlgiY/edit?slide=id.g3a261b3249e_0_20#slide=id.g3a261b3249e_0_20
+
+## Acquiring the Data
+The data is stored in Kaggle. To acquire the data, visit this [link](https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks) and select the option to download from Kaggle as a zip file, or via Kaggle API.
+
+Additionally, the `stocks_aggregated.csv` file contains the clean and formatted data used in our models.
